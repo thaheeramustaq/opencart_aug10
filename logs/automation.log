@@ -1,0 +1,10 @@
+16:47:50.994 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+16:50:56.873 [main] INFO  testCases.TC_001_AccountRegistrationTest - application logs INFO ......
+16:50:56.883 [main] WARN  testCases.TC_001_AccountRegistrationTest - application logs WARN ......
+16:50:58.720 [main] INFO  testCases.TC_001_AccountRegistrationTest - application logs INFO firstName WJPJS
+16:51:07.353 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+16:51:08.078 [main] INFO  testCases.TC_002_LoginTest - hp.clickMyAccount()
+16:51:08.816 [main] INFO  testCases.TC_002_LoginTest - hp.clickLogin()
+16:51:10.247 [main] INFO  testCases.TC_002_LoginTest - lp.clickLogin()
+16:51:10.402 [main] INFO  testCases.TC_002_LoginTest - macc.isMyAccountPageExists()
+16:51:10.402 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest

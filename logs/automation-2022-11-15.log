@@ -1,0 +1,56 @@
+17:24:09.442 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@gmail.com,test123,valid
+17:24:11.374 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Valid/True
+17:24:12.157 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:24:32.564 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@gmail.com,test123,valid
+17:24:35.148 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Valid/True
+17:24:35.948 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:24:35.997 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@hotmail.com,test123,invalid
+17:24:47.807 [main] INFO  testCases.TC_003_LoginDataDrivenTest - InValid/False
+17:24:47.808 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:24:47.816 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@gmail.com,test123,valid
+17:24:49.857 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Valid/True
+17:24:50.683 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:14:48.163 [main] INFO  testCases.TC_001_AccountRegistrationTest - application logs INFO ......
+17:14:48.181 [main] WARN  testCases.TC_001_AccountRegistrationTest - application logs WARN ......
+17:14:49.993 [main] INFO  testCases.TC_001_AccountRegistrationTest - application logs INFO firstName UMNFS
+17:14:58.531 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+17:14:58.799 [main] INFO  testCases.TC_002_LoginTest - hp.clickMyAccount()
+17:14:59.613 [main] INFO  testCases.TC_002_LoginTest - hp.clickLogin()
+17:15:00.692 [main] INFO  testCases.TC_002_LoginTest - lp.clickLogin()
+17:15:00.886 [main] INFO  testCases.TC_002_LoginTest - macc.isMyAccountPageExists()
+17:15:00.886 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+17:16:45.696 [main] INFO  testCases.TC_001_AccountRegistrationTest - application logs INFO ......
+17:16:45.717 [main] WARN  testCases.TC_001_AccountRegistrationTest - application logs WARN ......
+17:16:47.333 [main] INFO  testCases.TC_001_AccountRegistrationTest - application logs INFO firstName QDRNV
+17:16:56.489 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+17:16:57.133 [main] INFO  testCases.TC_002_LoginTest - hp.clickMyAccount()
+17:16:57.935 [main] INFO  testCases.TC_002_LoginTest - hp.clickLogin()
+17:16:59.115 [main] INFO  testCases.TC_002_LoginTest - lp.clickLogin()
+17:16:59.292 [main] INFO  testCases.TC_002_LoginTest - macc.isMyAccountPageExists()
+17:16:59.293 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+17:21:12.137 [main] INFO  testCases.TC_001_AccountRegistrationTest - application logs INFO ......
+17:21:12.152 [main] WARN  testCases.TC_001_AccountRegistrationTest - application logs WARN ......
+17:21:13.548 [main] INFO  testCases.TC_001_AccountRegistrationTest - application logs INFO firstName HYXXS
+17:21:31.036 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+17:21:31.745 [main] INFO  testCases.TC_002_LoginTest - hp.clickMyAccount()
+17:21:32.531 [main] INFO  testCases.TC_002_LoginTest - hp.clickLogin()
+17:21:33.991 [main] INFO  testCases.TC_002_LoginTest - lp.clickLogin()
+17:21:34.139 [main] INFO  testCases.TC_002_LoginTest - macc.isMyAccountPageExists()
+17:21:34.139 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+19:57:44.228 [main] INFO  testCases.TC_001_AccountRegistrationTest - application logs INFO ......
+19:57:44.235 [main] WARN  testCases.TC_001_AccountRegistrationTest - application logs WARN ......
+19:57:45.730 [main] INFO  testCases.TC_001_AccountRegistrationTest - application logs INFO firstName BBARQ
+19:57:52.444 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+19:57:52.965 [main] INFO  testCases.TC_002_LoginTest - hp.clickMyAccount()
+19:57:53.639 [main] INFO  testCases.TC_002_LoginTest - hp.clickLogin()
+19:57:54.530 [main] INFO  testCases.TC_002_LoginTest - lp.clickLogin()
+19:57:54.644 [main] INFO  testCases.TC_002_LoginTest - macc.isMyAccountPageExists()
+19:57:54.644 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+20:38:58.887 [main] INFO  testCases.TC_001_AccountRegistrationTest - application logs INFO ......
+20:38:58.905 [main] WARN  testCases.TC_001_AccountRegistrationTest - application logs WARN ......
+20:39:00.587 [main] INFO  testCases.TC_001_AccountRegistrationTest - application logs INFO firstName PGIHC
+20:39:09.305 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+20:39:09.962 [main] INFO  testCases.TC_002_LoginTest - hp.clickMyAccount()
+20:39:10.894 [main] INFO  testCases.TC_002_LoginTest - hp.clickLogin()
+20:39:12.003 [main] INFO  testCases.TC_002_LoginTest - lp.clickLogin()
+20:39:12.165 [main] INFO  testCases.TC_002_LoginTest - macc.isMyAccountPageExists()

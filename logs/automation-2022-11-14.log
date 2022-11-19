@@ -1,0 +1,47 @@
+16:56:33.631 [main] INFO  testCases.TC_003_LoginDataDrivenTest - InValid/False
+16:56:33.644 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:56:33.647 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@gmail.com,test123,valid
+16:56:35.039 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Valid/True
+16:56:35.511 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:23:19.851 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@gmail.com,test123,valid
+17:23:22.314 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Valid/True
+17:23:23.105 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:23:23.140 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@hotmail.com,test123,invalid
+17:23:35.066 [main] INFO  testCases.TC_003_LoginDataDrivenTest - InValid/False
+17:23:35.066 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:23:35.074 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@gmail.com,test123,valid
+17:23:37.414 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Valid/True
+17:23:38.161 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+18:40:28.774 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@gmail.com,test123,valid
+18:40:31.730 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Valid/True
+18:40:32.552 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+18:40:32.611 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@hotmail.com,test123,invalid
+18:40:44.596 [main] INFO  testCases.TC_003_LoginDataDrivenTest - InValid/False
+18:40:44.596 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+18:40:44.603 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@gmail.com,test123,valid
+18:40:46.857 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Valid/True
+18:40:47.719 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+18:53:39.698 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@gmail.com,test123,valid
+18:53:42.798 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Valid/True
+18:53:43.511 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+18:53:43.554 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@hotmail.com,test123,invalid
+18:53:55.425 [main] INFO  testCases.TC_003_LoginDataDrivenTest - InValid/False
+18:53:55.425 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+18:53:55.431 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@gmail.com,test123,valid
+18:53:57.722 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Valid/True
+18:53:58.558 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:01:01.724 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@gmail.com,test123,valid
+19:01:04.978 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Valid/True
+19:01:05.764 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:01:05.839 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@hotmail.com,test123,invalid
+19:01:18.115 [main] INFO  testCases.TC_003_LoginDataDrivenTest - InValid/False
+19:01:18.115 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:01:18.127 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@gmail.com,test123,valid
+19:01:20.430 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Valid/True
+19:01:21.347 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:23:54.387 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@gmail.com,test123,valid
+17:23:56.807 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Valid/True
+17:23:57.495 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:23:57.542 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest :: thaheera@hotmail.com,test123,invalid
+17:24:09.431 [main] INFO  testCases.TC_003_LoginDataDrivenTest - InValid/False
+17:24:09.431 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
